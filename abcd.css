@@ -1,5 +1,8 @@
 body
-{background-color: indigo;
+{background:url('j1.jpg');
+background-repeat:no-repeat;
+background-size:1500px 800px;
+
 }
 h2{
 color:brown;
